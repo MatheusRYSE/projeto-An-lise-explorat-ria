@@ -1,4 +1,4 @@
-# projeto-An-lise-explorat-ria
+# projeto-Análise-exploratória
 Este projeto foi desenvolvido durante o primeiro semestre do curso, com o objetivo de realizar análises exploratórias e estatísticas utilizando bibliotecas amplamente empregadas na ciência de dados, como Pandas, NumPy, Matplotlib, Seaborn e Plotly Express.
 
 Além disso, foram utilizadas bibliotecas voltadas para aprendizado de máquina, incluindo:
